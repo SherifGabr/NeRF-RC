@@ -7,5 +7,8 @@ NeRF-RC builds on the work of [NeRF-OSR](https://github.com/r00tman/NeRF-OSR) an
 3. Combine -> novel lightning + novel viewpoint
 4. Render the result
 
+### 1. Scene illumination extraction
 ### 2. Object mesh extraction
 ![image](https://user-images.githubusercontent.com/20493629/216842943-edb20743-04ec-4c84-9991-63c31aaa75d4.png)
+
+### 3. Scene-Object compositing
