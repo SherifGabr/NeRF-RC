@@ -14,7 +14,6 @@ Completed under the supervision of Prof. Dr. Janne Heikkilä and Phong Nguyen
 ![BistroResults](https://github.com/SherifGabr/NeRF-RC/assets/20493629/990b16b5-350b-42b2-8a5c-6c8dcaba80b6)
 
 ### 2. Object mesh extraction
-![image](https://user-images.githubusercontent.com/20493629/216842943-edb20743-04ec-4c84-9991-63c31aaa75d4.png)
 ![EgyptianChair](https://github.com/SherifGabr/NeRF-RC/assets/20493629/eeeb45bb-3da9-42c0-a715-79a5a5c099ae)
 
 ### 3. Scene-Object compositing
