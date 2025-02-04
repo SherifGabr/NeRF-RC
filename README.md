@@ -7,7 +7,7 @@ http://jultika.oulu.fi/Record/nbnfioulu-202306152524
 
 ## Pipeline![pipeline-implementation](https://github.com/SherifGabr/NeRF-RC/assets/20493629/fff93102-6059-4fb6-b676-b8713d26e744)
 
-1. NeRF-OSR to extract scene illumination.
+1. NeRF-OSR to extract scene geometry, texture, and illumination.
 2. NVDiffRec to extract object shape, BRDF, and illumination.
 3. Combine novel lighting + novel viewpoint.
 4. Render the result.
